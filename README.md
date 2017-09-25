@@ -32,8 +32,6 @@ bundle exec puppet strings
 
 PRs accepted :)
 
-Tests can't pass because the code does nothing and is not idempotent
-
 ## Testing
 This module supports testing using [PDQTest](https://github.com/declarativesystems/pdqtest).
 
